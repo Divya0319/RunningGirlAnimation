@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RunningGirl</string>
+    <string name="dur_bg">100</string>
+    <string name="dur_boy">80</string>
+</resources>

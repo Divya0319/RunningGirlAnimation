@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/selected"
+    android:oneshot="false">
+    <item
+        android:drawable="@drawable/man1"
+        android:duration="@string/dur_boy" />
+    <item
+        android:drawable="@drawable/man2"
+        android:duration="@string/dur_boy" />
+    <item
+        android:drawable="@drawable/man3"
+        android:duration="@string/dur_boy" />
+    <item
+        android:drawable="@drawable/man4"
+        android:duration="@string/dur_boy" />
+    <item
+        android:drawable="@drawable/man5"
+        android:duration="@string/dur_boy" />
+    <item
+        android:drawable="@drawable/man6"
+        android:duration="@string/dur_boy" />
+    <item
+        android:drawable="@drawable/man7"
+        android:duration="@string/dur_boy" />
+    <item
+        android:drawable="@drawable/man8"
+        android:duration="@string/dur_boy" />
+
+</animation-list>
